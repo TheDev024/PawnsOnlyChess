@@ -1,0 +1,1 @@
+    val regex = Regex("[0-9]{1,2} rings?")
